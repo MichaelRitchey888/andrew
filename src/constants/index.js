@@ -41,6 +41,7 @@ export const navLinks = [
     id: 'work',
     title: 'Work',
   },
+  
 ];
 
 const services = [
@@ -149,17 +150,17 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      'I thought it was impossible to make a website as beautiful as our product, but Jhon proved me wrong.',
+      'I thought it was impossible to make a website as beautiful as our product, but Andrew proved me wrong.',
     name: 'Christopher Powers',
     designation: 'CEO',
-    company: 'Taliso LLC',
+    company: 'Talisto LLC',
     image: 'https://randomuser.me/api/portraits/men/7.jpg',
   },
 ];
 
 const projects = [
   {
-    name: 'Tiktik',
+    name: 'Tiktok',
     description:
       'Our TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design, and much more.',
     tags: [
